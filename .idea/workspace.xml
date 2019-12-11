@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="480c53c5-f847-4571-a631-0c274bde2d4c" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="true" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DHBW_Playground$Baum1_Test.ic" NAME="Baum1_Test Coverage Results" MODIFIED="1528807458738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>eigeneDatenstruktur.Binärbaum_oG.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DHBW_Playground$EEATEST.ic" NAME="EEATEST Coverage Results" MODIFIED="1530293467695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Mathe.euklidischerAlgo.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DHBW-Playground" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="JavaFXApplication" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mZugriff++</find>
+      <find>sort</find>
+      <find>toString</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Yves Staudenmaier\IdeaProjects\DHBW-Playground\src\Vererbung_AbstKlassen_Interface_Polymorphie\Vererbung\Aufgabe21</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Yves" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Uq899mHjYmFMQ1R4xgfzOAAs9b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="scratch&#9;FILE&#9;file://C:/Users/Yves Staudenmaier/.IntelliJIdea2018.1/config/scratches/scratch.java&#10;plugin&#9;ACTION&#9;WelcomeScreen.Plugins&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;bubblesort&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/jdk.internal.vm.compiler/org.graalvm.compiler.jtt/src/org/graalvm/compiler/jtt/micro/Bubblesort.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533145943200" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="druckverwaltung" />
+      <recent name="GUI.verkehrsmittelzaehler" />
+      <recent name="Fluglinie" />
+      <recent name="Pausenbote" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Vererbung_AbstKlassen_Interface_Polymorphie.Polymorphie_Vererbung" />
+      <recent name="Boniaufgabe.A16_Binärsuche" />
+      <recent name="Boniaufgabe.A16_s171988" />
+      <recent name="Boniaufgabe" />
+      <recent name="Vererbung_AbstKlassen_Interface_Polymorphie.Vererbung.Tafelbild" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yves Staudenmaier\IdeaProjects\DHBW-Playground\src\eigeneDatenstruktur\Binärbaum_Generics" />
+      <recent name="C:\Users\Yves Staudenmaier\IdeaProjects\DHBW-Playground\src\eigeneDatenstruktur" />
+      <recent name="C:\Users\Yves Staudenmaier\IdeaProjects\DHBW-Playground\src\eigeneDatenstruktur\Regal_ArrayList\GenericsT" />
+      <recent name="C:\Users\Yves Staudenmaier\IdeaProjects\DHBW-Playground\src\eigeneDatenstruktur\HashMap_Haus_Straße\GenericsT" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="GUI.malprogramm" />
+      <recent name="AbstrakteKlassenUndInterface.ratespiel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yves Staudenmaier\IdeaProjects\DHBW-Playground\src\loesungen\Seminarverwaltung" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Baum1_Test">
+    <configuration name="Baum1_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eigeneDatenstruktur.Binärbaum_oG.Baum1_Test" />
+      <module name="DHBW-Playground-Prog2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eigeneDatenstruktur.Binärbaum_oG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EEATEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mathe.euklidischerAlgo.EEATEST" />
+      <module name="DHBW-Playground-Prog2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mathe.euklidischerAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IS_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortiereAlgos.Insertionsort_vereinfacht.IS_Test" />
+      <module name="DHBW-Playground-Prog2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortiereAlgos.Insertionsort_vereinfacht.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QS_TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortiereAlgos.QuickSort.QS_TEST" />
+      <module name="DHBW-Playground-Prog2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortiereAlgos.QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuchAlgos_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuchAlgos.SuchAlgos_Test" />
+      <module name="DHBW-Playground-Prog2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SuchAlgos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EEATEST" />
+      <item itemvalue="Application.SuchAlgos_Test" />
+      <item itemvalue="Application.IS_Test" />
+      <item itemvalue="Application.QS_TEST" />
+      <item itemvalue="Application.Baum1_Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Baum1_Test" />
+        <item itemvalue="Application.QS_TEST" />
+        <item itemvalue="Application.EEATEST" />
+        <item itemvalue="Application.IS_Test" />
+        <item itemvalue="Application.SuchAlgos_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="480c53c5-f847-4571-a631-0c274bde2d4c" name="Default" comment="" />
+      <created>1526547209326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526547209326</updated>
+      <workItem from="1526547213046" duration="153000" />
+      <workItem from="1526628146201" duration="10410000" />
+      <workItem from="1526647425457" duration="64000" />
+      <workItem from="1526929850278" duration="33000" />
+      <workItem from="1526930010853" duration="249000" />
+      <workItem from="1526930406985" duration="452000" />
+      <workItem from="1526975200537" duration="31000" />
+      <workItem from="1526980219211" duration="267000" />
+      <workItem from="1526990624432" duration="74000" />
+      <workItem from="1526993003051" duration="3927000" />
+      <workItem from="1527000800409" duration="749000" />
+      <workItem from="1527064267927" duration="64000" />
+      <workItem from="1527065506030" duration="2099000" />
+      <workItem from="1527077095413" duration="671000" />
+      <workItem from="1527077835066" duration="550000" />
+      <workItem from="1527142841772" duration="761000" />
+      <workItem from="1527144958288" duration="6763000" />
+      <workItem from="1527162249723" duration="4130000" />
+      <workItem from="1527246437753" duration="4662000" />
+      <workItem from="1527252845017" duration="604000" />
+      <workItem from="1527254443135" duration="1372000" />
+      <workItem from="1527258178563" duration="732000" />
+      <workItem from="1527836398408" duration="33000" />
+      <workItem from="1528200809436" duration="8874000" />
+      <workItem from="1528288028357" duration="1542000" />
+      <workItem from="1528302946548" duration="250000" />
+      <workItem from="1528355259820" duration="159000" />
+      <workItem from="1528359860009" duration="13492000" />
+      <workItem from="1528443969148" duration="9112000" />
+      <workItem from="1528543060836" duration="10396000" />
+      <workItem from="1528630851592" duration="3249000" />
+      <workItem from="1528787254130" duration="3277000" />
+      <workItem from="1528803801702" duration="1728000" />
+      <workItem from="1528807840762" duration="3493000" />
+      <workItem from="1528819867570" duration="4045000" />
+      <workItem from="1528896891668" duration="870000" />
+      <workItem from="1528968666159" duration="3151000" />
+      <workItem from="1528977458592" duration="5697000" />
+      <workItem from="1528986593417" duration="67000" />
+      <workItem from="1528987016624" duration="100000" />
+      <workItem from="1529048167220" duration="2802000" />
+      <workItem from="1529052630285" duration="2303000" />
+      <workItem from="1529079541308" duration="669000" />
+      <workItem from="1529244116926" duration="4683000" />
+      <workItem from="1529265220127" duration="396000" />
+      <workItem from="1529394130532" duration="107000" />
+      <workItem from="1529408591935" duration="758000" />
+      <workItem from="1529410447458" duration="10861000" />
+      <workItem from="1529422666749" duration="7513000" />
+      <workItem from="1529499452221" duration="2251000" />
+      <workItem from="1529504816129" duration="698000" />
+      <workItem from="1529508485067" duration="1693000" />
+      <workItem from="1529526857100" duration="127000" />
+      <workItem from="1529527935575" duration="1015000" />
+      <workItem from="1529563340299" duration="5884000" />
+      <workItem from="1529571017347" duration="6843000" />
+      <workItem from="1529582871744" duration="4371000" />
+      <workItem from="1529592718338" duration="116000" />
+      <workItem from="1529595077214" duration="62000" />
+      <workItem from="1529661730046" duration="488000" />
+      <workItem from="1529688753904" duration="8000" />
+      <workItem from="1529744616040" duration="7649000" />
+      <workItem from="1529756089876" duration="152000" />
+      <workItem from="1530015831639" duration="6000" />
+      <workItem from="1530018347384" duration="862000" />
+      <workItem from="1530020433956" duration="6510000" />
+      <workItem from="1530032557833" duration="9777000" />
+      <workItem from="1530115494996" duration="1023000" />
+      <workItem from="1530121165312" duration="186000" />
+      <workItem from="1530168466712" duration="2060000" />
+      <workItem from="1530173339309" duration="328000" />
+      <workItem from="1530173933157" duration="267000" />
+      <workItem from="1530189191482" duration="88000" />
+      <workItem from="1530192559745" duration="173000" />
+      <workItem from="1530192750709" duration="199000" />
+      <workItem from="1530206418784" duration="100000" />
+      <workItem from="1530284476552" duration="2390000" />
+      <workItem from="1530291977706" duration="1248000" />
+      <workItem from="1530293313769" duration="766000" />
+      <workItem from="1530294171378" duration="1502000" />
+      <workItem from="1530451149646" duration="9896000" />
+      <workItem from="1530560256329" duration="3464000" />
+      <workItem from="1530618627492" duration="407000" />
+      <workItem from="1530619359141" duration="275000" />
+      <workItem from="1530624245346" duration="8070000" />
+      <workItem from="1530638021062" duration="5785000" />
+      <workItem from="1530647543150" duration="3293000" />
+      <workItem from="1530697228470" duration="2511000" />
+      <workItem from="1530715340797" duration="68000" />
+      <workItem from="1530716848077" duration="2545000" />
+      <workItem from="1530734155480" duration="22000" />
+      <workItem from="1530736839668" duration="1969000" />
+      <workItem from="1530774495050" duration="1272000" />
+      <workItem from="1530780157907" duration="511000" />
+      <workItem from="1530785641579" duration="54000" />
+      <workItem from="1530786043826" duration="68000" />
+      <workItem from="1530786475627" duration="18000" />
+      <workItem from="1530790580182" duration="10000" />
+      <workItem from="1531224869773" duration="17000" />
+      <workItem from="1531233412138" duration="412000" />
+      <workItem from="1531759137474" duration="302000" />
+      <workItem from="1531831386976" duration="129000" />
+      <workItem from="1531903170112" duration="782000" />
+      <workItem from="1531995460760" duration="44000" />
+      <workItem from="1532080781040" duration="50000" />
+      <workItem from="1532080901513" duration="278000" />
+      <workItem from="1532107147854" duration="1845000" />
+      <workItem from="1532187650871" duration="256000" />
+      <workItem from="1532362477975" duration="280000" />
+      <workItem from="1532596235770" duration="3375000" />
+      <workItem from="1532610695022" duration="730000" />
+      <workItem from="1532680946993" duration="597000" />
+      <workItem from="1532708139731" duration="330000" />
+      <workItem from="1532782167332" duration="57000" />
+      <workItem from="1532785700197" duration="1441000" />
+      <workItem from="1532948249040" duration="229000" />
+      <workItem from="1532957779808" duration="3764000" />
+      <workItem from="1533058721811" duration="528000" />
+      <workItem from="1533127665662" duration="484000" />
+      <workItem from="1533128957724" duration="5249000" />
+      <workItem from="1533136792817" duration="4573000" />
+      <workItem from="1576072614382" duration="20000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1527253061487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527253061487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="256" key="cloudConfig.PluginsDialog" timestamp="1576072631030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="256" key="cloudConfig.PluginsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576072631030" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1576072648518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576072648518" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DHBW-Playground-Prog2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

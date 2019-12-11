@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>AbstrakteKlassenUndInterface.ratespielOHNE.JaNeinFrage</OriginalElement>
+  <nodes>
+    <node x="147.41666666666663" y="406.0">AbstrakteKlassenUndInterface.ratespielOHNE.RSohneTEST</node>
+    <node x="245.0" y="34.0">AbstrakteKlassenUndInterface.ratespielOHNE.Spieler</node>
+    <node x="0.0" y="0.0">AbstrakteKlassenUndInterface.ratespielOHNE.JaNeinFrage</node>
+    <node x="102.13888888888889" y="214.0">AbstrakteKlassenUndInterface.ratespielOHNE.Ratespiel</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="AbstrakteKlassenUndInterface.ratespielOHNE.Ratespiel" target="AbstrakteKlassenUndInterface.ratespielOHNE.JaNeinFrage">
+      <point x="-90.74999999999997" y="-71.0" />
+      <point x="132.3888888888889" y="189.0" />
+      <point x="112.5" y="189.0" />
+      <point x="0.0" y="82.0" />
+    </edge>
+    <edge source="AbstrakteKlassenUndInterface.ratespielOHNE.RSohneTEST" target="AbstrakteKlassenUndInterface.ratespielOHNE.Spieler">
+      <point x="61.875" y="-25.5" />
+      <point x="291.79166666666663" y="386.0" />
+      <point x="367.54166666666663" y="386.0" />
+      <point x="367.54166666666663" y="189.0" />
+      <point x="381.66666666666663" y="189.0" />
+      <point x="54.66666666666666" y="48.0" />
+    </edge>
+    <edge source="AbstrakteKlassenUndInterface.ratespielOHNE.RSohneTEST" target="AbstrakteKlassenUndInterface.ratespielOHNE.Ratespiel">
+      <point x="-20.625" y="-25.5" />
+      <point x="209.29166666666663" y="376.0" />
+      <point x="162.63888888888889" y="376.0" />
+      <point x="-60.5" y="71.0" />
+    </edge>
+    <edge source="AbstrakteKlassenUndInterface.ratespielOHNE.RSohneTEST" target="AbstrakteKlassenUndInterface.ratespielOHNE.JaNeinFrage">
+      <point x="-61.875" y="-25.5" />
+      <point x="168.04166666666663" y="386.0" />
+      <point x="82.22916666666666" y="386.0" />
+      <point x="82.22916666666666" y="189.0" />
+      <point x="37.5" y="189.0" />
+      <point x="-75.0" y="82.0" />
+    </edge>
+    <edge source="AbstrakteKlassenUndInterface.ratespielOHNE.Ratespiel" target="AbstrakteKlassenUndInterface.ratespielOHNE.Spieler">
+      <point x="90.75000000000003" y="-71.0" />
+      <point x="313.8888888888889" y="189.0" />
+      <point x="327.0" y="189.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="204.5" y="228.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

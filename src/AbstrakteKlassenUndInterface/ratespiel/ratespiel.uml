@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>AbstrakteKlassenUndInterface.ratespiel.Frage</OriginalElement>
+  <nodes>
+    <node x="0.0" y="279.0">AbstrakteKlassenUndInterface.ratespiel.DreiAntwortenFrage</node>
+    <node x="344.5" y="0.0">AbstrakteKlassenUndInterface.ratespiel.Frage</node>
+    <node x="478.0" y="443.0">AbstrakteKlassenUndInterface.ratespiel.RSohneTEST</node>
+    <node x="616.0" y="301.5">AbstrakteKlassenUndInterface.ratespiel.JaNeinFrage</node>
+    <node x="336.0" y="301.5">AbstrakteKlassenUndInterface.ratespiel.WortFrage</node>
+    <node x="267.0" y="443.0">AbstrakteKlassenUndInterface.ratespiel.Spieler</node>
+    <node x="0.0" y="443.0">AbstrakteKlassenUndInterface.ratespiel.Ratespiel</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="AbstrakteKlassenUndInterface.ratespiel.JaNeinFrage" target="AbstrakteKlassenUndInterface.ratespiel.Frage">
+      <point x="0.0" y="-37.0" />
+      <point x="749.5" y="254.0" />
+      <point x="547.0" y="254.0" />
+      <point x="81.0" y="114.5" />
+    </edge>
+    <edge source="AbstrakteKlassenUndInterface.ratespiel.DreiAntwortenFrage" target="AbstrakteKlassenUndInterface.ratespiel.Frage">
+      <point x="0.0" y="-59.5" />
+      <point x="158.0" y="254.0" />
+      <point x="385.0" y="254.0" />
+      <point x="-81.0" y="114.5" />
+    </edge>
+    <edge source="AbstrakteKlassenUndInterface.ratespiel.WortFrage" target="AbstrakteKlassenUndInterface.ratespiel.Frage">
+      <point x="0.0" y="-37.0" />
+      <point x="0.0" y="114.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7824074074074074" x="553.0" y="314.0" />
+  <SelectedNodes>
+    <node>AbstrakteKlassenUndInterface.ratespiel.DreiAntwortenFrage</node>
+    <node>AbstrakteKlassenUndInterface.ratespiel.Frage</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

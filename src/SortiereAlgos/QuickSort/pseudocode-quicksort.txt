@@ -1,0 +1,30 @@
+rechts größer als pivot, links kleiner als pivot
+----------------------------------
+Algo nach Sir Charles Antony Richard Hoare [lernen, im Schlaf!]
+
+function partition (a: int-Array, low,high:int):int
+    pivot := a[low]
+    i := low-1
+    j := high+1
+    solange wahr:
+        tue:
+            i := i+1
+        solange a[i] < pivot
+
+        tue:
+            j := j-1
+        solange a[j] > pivot
+
+        #Abbruchbedingung der Endlosschleife
+        wenn i >= j
+            return j
+        tausche a[i] mit a[j]
+-----------------------------------
+beim ersten Aufruf low=0, high= a.length-1
+function quicksort(a:int[],low,high:int):void
+    #Abbruchbedingung
+    wenn low < high
+        p := partition(a,low,high)
+        this.quicksort(a,low,p)
+        this.quicksort(a,p+1,high)
+------------------------------------

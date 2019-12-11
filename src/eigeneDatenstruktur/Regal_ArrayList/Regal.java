@@ -1,12 +1,11 @@
-package eigeneDatenstruktur;
+package eigeneDatenstruktur.Regal_ArrayList;
 
 /**
  * Eigene ArrayList mit Einschränkungen der Funktion
  */
 
-public class Regal {
-
-    String[] mRegalArray;
+public class Regal<T> {
+    T[] mRegalArray;
     int mNextFreeIndex;
 
     public Regal(){
@@ -15,7 +14,7 @@ public class Regal {
     }
 
     public Regal(int i){
-        mRegalArray = new String[i];
+        mRegalArray = (T[])new Object[i];
         mNextFreeIndex = 0;
     }
 
@@ -23,12 +22,12 @@ public class Regal {
      *
      * @param s entspricht dem String der hinzugefügt werden soll
      */
-    public void add(String s){
+    public void add(T s){
         if (mNextFreeIndex < mRegalArray.length){
             mRegalArray[mNextFreeIndex] = s;
             mNextFreeIndex++;
         }else{
-            String[] big = new String[mRegalArray.length*2];
+            T[] big = (T[])new Object[mRegalArray.length*2];
             for (int i = 0; i < mRegalArray.length-1; i++){
                 big[i] = mRegalArray[i];
             }
@@ -39,7 +38,7 @@ public class Regal {
         }
     }
 
-    public String get(int i){
+    public T get(int i){
         if (i < mRegalArray.length){
             return mRegalArray[i];
         }else {
@@ -47,19 +46,19 @@ public class Regal {
         }
     }
 
-    public boolean delete(String s){
+    public boolean delete(T s){
         boolean ret = false;
 
         for (int i = 0; i < mRegalArray.length; i++){
             if (mRegalArray[i]!=null && mRegalArray[i].equals(s)){
                 mRegalArray[i] = null;
-                ret = !ret;
+                ret = !ret; //ret = true;
             }
         }
         return ret;
     }
 
-    public int contains(String s){
+    public int contains(T s){
         int ret = -1;
         for (int i = 0; i < mRegalArray.length;i++){
             if (mRegalArray[i]!=null && mRegalArray[i].equals(s)){

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Fluglinie.Verbindung</OriginalElement>
+  <nodes>
+    <node x="297.5" y="291.0">Fluglinie.Flug</node>
+    <node x="176.62037037037038" y="123.0">Fluglinie.Verbindung</node>
+    <node x="10.5" y="312.5">Fluglinie.Fluglinie</node>
+    <node x="170.87037037037038" y="625.0">Fluglinie.Reiseportal</node>
+    <node x="514.3703703703704" y="480.0">Fluglinie.Buchung</node>
+    <node x="68.65740740740739" y="11.0">Fluglinie.Flughafen</node>
+    <node x="391.6203703703704" y="134.5">Fluglinie.Flugzeug</node>
+    <node x="568.7523148148148" y="0.0">Fluglinie.Passagier</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Fluglinie.Reiseportal" target="Fluglinie.Flughafen">
+      <point x="-144.0" y="-70.5" />
+      <point x="206.87037037037038" y="605.0" />
+      <point x="0.0" y="605.0" />
+      <point x="0.0" y="98.0" />
+      <point x="104.90740740740739" y="98.0" />
+      <point x="-36.25" y="25.5" />
+    </edge>
+    <edge source="Fluglinie.Reiseportal" target="Fluglinie.Buchung">
+      <point x="72.0" y="-70.5" />
+      <point x="422.8703703703704" y="595.0" />
+      <point x="604.8703703703704" y="595.0" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="Fluglinie.Flug" target="Fluglinie.Verbindung">
+      <point x="-68.66666666666669" y="-69.5" />
+      <point x="331.8333333333333" y="266.0" />
+      <point x="274.1203703703704" y="266.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="Fluglinie.Buchung" target="Fluglinie.Flug">
+      <point x="-45.25" y="-47.5" />
+      <point x="559.6203703703704" y="455.0" />
+      <point x="452.0" y="455.0" />
+      <point x="51.5" y="69.5" />
+    </edge>
+    <edge source="Fluglinie.Reiseportal" target="Fluglinie.Fluglinie">
+      <point x="-72.0" y="-70.5" />
+      <point x="278.8703703703704" y="595.0" />
+      <point x="144.0" y="595.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="Fluglinie.Reiseportal" target="Fluglinie.Passagier">
+      <point x="144.0" y="-70.5" />
+      <point x="494.8703703703704" y="605.0" />
+      <point x="705.8703703703703" y="605.0" />
+      <point x="705.8703703703703" y="98.0" />
+      <point x="697.0856481481482" y="98.0" />
+      <point x="51.33333333333337" y="36.5" />
+    </edge>
+    <edge source="Fluglinie.Verbindung" target="Fluglinie.Flug">
+      <point x="65.0" y="59.0" />
+      <point x="339.1203703703704" y="266.0" />
+      <point x="400.5" y="266.0" />
+      <point x="0.0" y="-69.5" />
+    </edge>
+    <edge source="Fluglinie.Reiseportal" target="Fluglinie.Flug">
+      <point x="0.0" y="-70.5" />
+      <point x="350.8703703703704" y="605.0" />
+      <point x="349.0" y="605.0" />
+      <point x="-51.5" y="69.5" />
+    </edge>
+    <edge source="Fluglinie.Verbindung" target="Fluglinie.Flughafen">
+      <point x="0.0" y="-59.0" />
+      <point x="274.1203703703704" y="98.0" />
+      <point x="177.4074074074074" y="98.0" />
+      <point x="36.25" y="25.5" />
+    </edge>
+    <edge source="Fluglinie.Fluglinie" target="Fluglinie.Verbindung">
+      <point x="0.0" y="-48.0" />
+      <point x="144.0" y="266.0" />
+      <point x="209.12037037037038" y="266.0" />
+      <point x="-65.0" y="59.0" />
+    </edge>
+    <edge source="Fluglinie.Flug" target="Fluglinie.Flugzeug">
+      <point x="68.66666666666669" y="-69.5" />
+      <point x="469.1666666666667" y="266.0" />
+      <point x="515.6203703703703" y="266.0" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="Fluglinie.Flugzeug" target="Fluglinie.Passagier">
+      <point x="2.8421709430404007E-14" y="-47.5" />
+      <point x="515.6203703703704" y="98.0" />
+      <point x="594.4189814814814" y="98.0" />
+      <point x="-51.333333333333336" y="36.5" />
+    </edge>
+    <edge source="Fluglinie.Buchung" target="Fluglinie.Passagier">
+      <point x="45.25" y="-47.5" />
+      <point x="650.1203703703703" y="98.0" />
+      <point x="645.7523148148148" y="98.0" />
+      <point x="0.0" y="36.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6450381679389313" x="361.5" y="383.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

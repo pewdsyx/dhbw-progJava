@@ -1,0 +1,17 @@
+Setze zum speichern von Fahrzeugen in einer Verwaltung für Sixt folgende Anforderung um
+- Sixt hat Deutschlandweit 200 Standorte
+- pro Standort gibt es dort registrierte Fahrzeuge versch. Anzahl und Typen
+    z.B. Sportwagen, Transportwagen, Kombi, Cabrio
+    Mannheim hat BMW,Vito(Mercedes), Porsche
+
+zu den Fahrzeugen soll gespeichert werden: Name, Standort, Kunde (bei Ausleihe), Tagespreis
+zu den Standorten soll gespeichert werden: welche Fahrzeuge dort registriert, aktuell verfügbar?
+
+Die Fahrzeuge
+    der Transportwagen-Kategorie haben außerdem: Stauraum
+    der Sportwagen-Kategorie haben außerdem: Nachbrenner(ja/nein)
+
+Erstellen Sie ein Design der analytischen Sepz. als Klassendiagramm
+Implementieren Sie die Testklassen zum Testen ihres Designs
+
+siehe Word-Doc

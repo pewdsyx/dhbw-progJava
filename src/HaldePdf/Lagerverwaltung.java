@@ -9,9 +9,7 @@ public class Lagerverwaltung {
     }
 
     public String gebePaletteAus(Palette p){
-        Palette aPalette = p;
-
-        return aPalette.toString();
+        return p.toString();
     }
 
     public int gebePlatznummer(Palette p){

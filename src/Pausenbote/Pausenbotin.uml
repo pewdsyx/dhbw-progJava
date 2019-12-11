@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Pausenbote.Besterllerin</OriginalElement>
+  <nodes>
+    <node x="653.25" y="455.0">Pausenbote.Lieferung</node>
+    <node x="566.7500000000001" y="123.0">Pausenbote.Produkt</node>
+    <node x="0.0" y="755.0">Pausenbote.Besterllerin</node>
+    <node x="257.00000000000006" y="788.0">Pausenbote.Kasse</node>
+    <node x="375.25000000000006" y="498.5">Pausenbote.Lager</node>
+    <node x="154.25000000000006" y="521.5">Pausenbote.BankAcc</node>
+    <node x="686.0000000000001" y="11.0">java.lang.Comparable</node>
+    <node x="906.25" y="543.0">Pausenbote.Packerin</node>
+    <node x="738.5" y="799.0">Pausenbote.Botin</node>
+    <node x="482.0000000000001" y="0.0">Pausenbote.StandortLager</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Pausenbote.Lager" target="Pausenbote.Produkt">
+      <point x="64.5" y="-81.5" />
+      <point x="568.75" y="435.0" />
+      <point x="652.1666666666667" y="435.0" />
+      <point x="-17.083333333333314" y="136.0" />
+    </edge>
+    <edge source="Pausenbote.Produkt" target="java.lang.Comparable">
+      <point x="51.25000000000006" y="-136.0" />
+      <point x="720.5000000000001" y="98.0" />
+      <point x="764.5000000000001" y="98.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="Pausenbote.Kasse" target="Pausenbote.Lieferung">
+      <point x="48.0" y="-36.5" />
+      <point x="401.00000000000006" y="730.0" />
+      <point x="711.5" y="730.0" />
+      <point x="-58.25" y="125.0" />
+    </edge>
+    <edge source="Pausenbote.Lieferung" target="Pausenbote.Produkt">
+      <point x="5.6843418860808015E-14" y="-125.0" />
+      <point x="769.7500000000001" y="435.0" />
+      <point x="686.3333333333334" y="435.0" />
+      <point x="17.083333333333314" y="136.0" />
+    </edge>
+    <edge source="Pausenbote.Kasse" target="Pausenbote.BankAcc">
+      <point x="-48.0" y="-36.5" />
+      <point x="50.25" y="58.5" />
+    </edge>
+    <edge source="Pausenbote.Botin" target="Pausenbote.Lieferung">
+      <point x="0.0" y="-25.5" />
+      <point x="58.25" y="125.0" />
+    </edge>
+    <edge source="Pausenbote.Besterllerin" target="Pausenbote.Produkt">
+      <point x="-59.25" y="-69.5" />
+      <point x="59.25000000000006" y="415.0" />
+      <point x="583.8333333333334" y="415.0" />
+      <point x="-85.41666666666669" y="136.0" />
+    </edge>
+    <edge source="Pausenbote.Produkt" target="Pausenbote.StandortLager">
+      <point x="-51.24999999999994" y="-136.0" />
+      <point x="618.0000000000001" y="98.0" />
+      <point x="574.0000000000001" y="98.0" />
+      <point x="0.0" y="36.5" />
+    </edge>
+    <edge source="Pausenbote.Packerin" target="Pausenbote.Produkt">
+      <point x="-67.5" y="-37.0" />
+      <point x="973.75" y="425.0" />
+      <point x="720.5000000000001" y="425.0" />
+      <point x="51.25000000000006" y="136.0" />
+    </edge>
+    <edge source="Pausenbote.Besterllerin" target="Pausenbote.BankAcc">
+      <point x="59.25" y="-69.5" />
+      <point x="177.75" y="730.0" />
+      <point x="204.50000000000006" y="730.0" />
+      <point x="-50.25" y="58.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5547045951859956" x="588.5" y="447.00000000000006" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
