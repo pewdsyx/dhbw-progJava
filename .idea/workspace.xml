@@ -79,7 +79,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533145943200" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drawtext.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -115,7 +115,7 @@
       <recent name="C:\Users\Yves Staudenmaier\IdeaProjects\DHBW-Playground\src\loesungen\Seminarverwaltung" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestFrame">
+  <component name="RunManager" selected="Application.playground">
     <configuration name="Baum1_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eigeneDatenstruktur.Binärbaum_oG.Baum1_Test" />
       <module name="DHBW-Playground-Prog2" />
@@ -137,20 +137,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Mathe.euklidischerAlgo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IS_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortiereAlgos.Insertionsort_vereinfacht.IS_Test" />
-      <module name="DHBW-Playground-Prog2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SortiereAlgos.Insertionsort_vereinfacht.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,6 +178,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground" />
+      <module name="DHBW-Playground-Prog2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -210,18 +204,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.EEATEST" />
-      <item itemvalue="Application.IS_Test" />
       <item itemvalue="Application.QS_TEST" />
       <item itemvalue="Application.Baum1_Test" />
       <item itemvalue="Application.TestFrame" />
+      <item itemvalue="Application.playground" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.playground" />
         <item itemvalue="Application.TestFrame" />
         <item itemvalue="Application.Baum1_Test" />
         <item itemvalue="Application.QS_TEST" />
         <item itemvalue="Application.EEATEST" />
-        <item itemvalue="Application.IS_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -374,6 +368,7 @@
       <workItem from="1576072614382" duration="20000" />
       <workItem from="1576072644992" duration="284000" />
       <workItem from="1579896621632" duration="96000" />
+      <workItem from="1580035748732" duration="202000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1527253061487</created>
@@ -409,91 +404,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="620" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1579896652477" />
+    <state x="577" y="168" key="FileChooserDialogImpl" timestamp="1580035947089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580035947089" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1580035951824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580035951824" />
     <state x="524" y="256" key="cloudConfig.PluginsDialog" timestamp="1576072631030">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="256" key="cloudConfig.PluginsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576072631030" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579896626423">
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1580035879495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579896626423" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580035879495" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>DHBW-Playground-Prog2</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
