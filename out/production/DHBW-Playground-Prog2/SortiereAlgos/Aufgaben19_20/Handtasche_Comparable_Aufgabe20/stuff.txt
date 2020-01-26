@@ -1,0 +1,35 @@
+    /*//nur Anzahlfächer:
+    @Override
+    public int compareTo(Handtasche ht) {
+        if (this.mAnzahlFächer < ht.mAnzahlFächer){
+            return -1;
+        }
+
+        if (this.mAnzahlFächer == ht.mAnzahlFächer){
+            return 0;
+        }
+        //this.mAnzahlFächer > ht.mAnzahlFächer
+        return 1;
+    }*/
+
+    /*//Nach Anzahlfächer, wenn Fächer gleich, dann nach Volumen
+    @Override
+    public int compareTo(Handtasche ht){
+        if (this.mAnzahlFächer < ht.mAnzahlFächer){
+            return -1;
+        }
+
+        if (this.mAnzahlFächer == ht.mAnzahlFächer){
+            //Anzahl Fächer gleich, jetzt nach Volumen:
+            if (this.mVolumen < ht.mVolumen){
+                return -1;
+            }else if(this.mVolumen == ht.mVolumen){
+                return 0;
+            }else{
+                //Volumen größer
+                return 1;
+            }
+        }
+        //this.mAnzahlFächer > ht.mAnzahlFächer
+        return 1;
+    }*/

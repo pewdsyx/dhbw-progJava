@@ -1,0 +1,12 @@
+Schlange:
+- kann nur String-Pakete halten
+=> Doppeltverkettete Liste (Java: LinkedList, Queue)
+
+function add(s:String)
+    mSize++
+    erzeuge Node k mit k.mContent := s
+    mHead := k
+    Wenn mSize > 1
+        k.mNext := k.mHead
+    Sonst
+       mTail := k

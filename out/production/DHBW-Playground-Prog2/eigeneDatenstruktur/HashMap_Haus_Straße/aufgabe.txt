@@ -1,0 +1,1 @@
+Erstelle eine Datenstruktur mit Häuser nach Straßen zugreifbar (O(1)) gespeichert werden

@@ -1,0 +1,42 @@
+
+package SortiereAlgos.Insertionsort_vereinfacht
+IS..._vereinfacht: deckt keine besonderen Fälle ab und funktioniert mit einem begrenzten int-Array
+mit der Length 4 -> max. 5 Zahlen sind in diesem Array einzutragen. Die Zahl null steht für Platzhalter im
+Array und spiegelt keine Zahl wieder die eingefügt werden muss.
+Negative Zahlen sowie die Zahl null kann nicht eingefügt werden.
+Menge der einfügbaren Zahlen = {für alle x element Z \ {0} AND x > 0}
+-----------------------------------------------------------------------------------------------
+Mergesort:
+Eingangsliste (length = 0..7 -> 8) wird in der Mitte geteilt -> 2 neue Listen -> nochmal in der Mitte geteilt -> 4 Listen
+(2 Elemente!!!)
+wird solange gesplitet bis man pro Teilliste nur noch 2 Elemente hat.
+Teilliste <- sortieren
+dann die Teillisten durch merge wieder verbinden
+Zum Schluss der letzte Merge => return sotierte Liste.
+-----------------------------------------------------------------------------------------------
+MERGESORT Pseudocode
+
+#c ist unsortierte Liste
+# @return d ist sortierte Liste
+
+# lieber split -> Kernfunktion splitet c: Liste; ist aber eigentlich der mergeSort Algo iV merge()
+function split(c:Liste):Liste
+    wenn c.length == 1 OR c.length == 0
+        return c
+    wenn c.length == 2
+        wenn c sortiert
+            return c
+        sonst
+            invertiere c
+            return c
+    # mehr als zwei Elemente in der Liste
+    a := erste Hälfte von c
+    b := zweite Hälfte von c
+
+    # Sortiere a, b
+    d := merge(split(a),split(b))
+
+    # Verbinde a und b
+    d := merge(a,b)
+
+    return d
